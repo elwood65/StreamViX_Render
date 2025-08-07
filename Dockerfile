@@ -1,5 +1,5 @@
 # Scegli un'immagine Node.js di base
-FROM node:18-slim
+FROM node:20.18.1-slim
 
 # Installa git, python3 e pip
 USER root 
